@@ -25,15 +25,15 @@
 - In the game folder a certain architecture is built:
 
 - **launcher**
- + In this folder configurations and the profiles' data are stored. Both configurations are written in *JSON-format*.
- + Additionally you will find a file called *launcher-last.log*. It stores the last log of the launcher. Each launcher restart resets the file.
+    + In this folder configurations and the profiles' data are stored. Both configurations are written in *JSON-format*.
+    + Additionally you will find a file called *launcher-last.log*. It stores the last log of the launcher. Each launcher restart resets the file.
 
 - **profiles**
- + In this folder you will find all relevant game files according to the selected version.
- + Each profile has its own folder titled with its own name.
+    + In this folder you will find all relevant game files according to the selected version.
+    + Each profile has its own folder titled with its own name.
 
 - **versions**
- + Here all versions can be found. They are stored as executable *JAR-files* that you can download from [GitHub](https://github.com/thevicraft/java-pixel-game/releases).
+    + Here all versions can be found. They are stored as executable *JAR-files* that you can download from [GitHub](https://github.com/thevicraft/java-pixel-game/releases).
 
 
 ### Launcher profiles
