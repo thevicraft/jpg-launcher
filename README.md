@@ -1,7 +1,7 @@
 # Java-Pixel-Game Launcher
 
 + This is a universial Launcher for the **[Java-Pixel-Game](https://github.com/thevicraft/java-pixel-game)**
-+ Please consider (as with the original game too) that due to danger of plagiarism **I will not upload the source code**.
++ Please consider (as with the original game too) that **I will not upload the source code**.
 ![launcher_start](https://user-images.githubusercontent.com/80700279/232238373-c98c3f91-0ce3-4d99-9626-7310c8df1253.png)
 
 ### Download
